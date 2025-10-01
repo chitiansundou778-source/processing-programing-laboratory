@@ -33,10 +33,10 @@ boid game(仮)
 - なお、難易度調整が難しく結果として私でも４匹生き残れば良いぐらいの難易度になってしまった。
 
 ## 実行方法
-1.game.pdeをダウンロード
-2.processingを開く
-3.エクスプローラからgame.pdeを選択し開く
-4.processingの実行する
+- 1.game.pdeをダウンロード
+- 2.processingを開く
+- 3.エクスプローラからgame.pdeを選択し開く
+- 4.processingの実行する
 
 ---
 
