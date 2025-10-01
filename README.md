@@ -41,3 +41,8 @@ boid game(仮)
 ---
 
 ##チュートリアル・デモプレイ
+
+
+https://github.com/user-attachments/assets/1c46493c-2f40-4b12-9b61-86bd1a0f030d
+
+
