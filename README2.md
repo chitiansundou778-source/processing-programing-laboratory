@@ -38,3 +38,19 @@ grabshell専用タイピング
 - 4.typing.pdeを開く
 - 5.実行ボタンを押す
 
+## 操作方法とデモプレイ
+- 実行すると英単語タイピングが永遠に続きます。
+- ![レコーディング 2025-10-02 135147](https://github.com/user-attachments/assets/6e0b56c8-d4ec-44b0-b5e0-0309f045de29
+
+- そしてタイピングをし終わった単語はカウントされます。
+- <img width="994" height="721" alt="スクリーンショット 2025-10-02 135827" src="https://github.com/user-attachments/assets/db9132ed-8f68-4012-822c-7105e6a4a637" />
+
+- ローマ字入力したいときはshft+mでモード切替できます。
+- 
+
+https://github.com/user-attachments/assets/efeff7a4-731e-48aa-bda8-bf21acb1c62e
+
+
+- enterキーを押すと自由にアルファベットタイピングができる場所になります。ここでは自由に短文、長文のタイピングができます。
+- もう一度enterキーを押すとフリーモードからタイピングモード、元のモードへ切り替わります。
+- 
