@@ -1,5 +1,5 @@
 # 課題タイトル1
-boid game(仮)
+READER GAME
 
 ---
 
