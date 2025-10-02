@@ -53,4 +53,7 @@ https://github.com/user-attachments/assets/efeff7a4-731e-48aa-bda8-bf21acb1c62e
 
 - enterキーを押すと自由にアルファベットタイピングができる場所になります。ここでは自由に短文、長文のタイピングができます。
 - もう一度enterキーを押すとフリーモードからタイピングモード、元のモードへ切り替わります。
-- 
+
+
+https://github.com/user-attachments/assets/ecbebd85-eb84-4cfc-a864-e04119298f37
+
